@@ -36,7 +36,7 @@ section{
 }
 
 button {
-    background: linear-gradient(120deg, pink, rgb(108, 175, 252));
+    background: linear-gradient(120deg, pink, rgb(108, 252, 168));
     border: 0.2px solid black;
     outline: none;
     border-radius: 10px;
